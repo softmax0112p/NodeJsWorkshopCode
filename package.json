@@ -1,0 +1,16 @@
+{
+    "name": "SimpleChatServer",
+    "version": "0.0.0",
+    "main": "server.js",
+    "scripts": {
+        "start": "node js/server.js",
+        "test": "./node_modules/.bin/mocha tests"
+    },
+    "author": "",
+    "license": "BSD-2-Clause",
+    "dependencies": {
+    },
+    "devDependencies": {
+        "mocha": "~1.21.4"
+    }
+}
